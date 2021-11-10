@@ -26,8 +26,10 @@ Aspiring **Software Developer** and **UI/UX Designer**. I love learning technolo
 <div align="center">
   <a href="https://github.com/santos-vinicius">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=santos-vinicius&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-vinicius&layout=compact&langs_count=6&theme=github_dark"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-vinicius&layout=compact&langs_count=6&theme=github_dark"/>
+  
+  ![Snake animation](https://github.com/santos-vinicius/santos-vinicius/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-![Snake animation](https://github.com/santos-vinicius/santos-vinicius/blob/output/github-contribution-grid-snake.svg)
+
 
