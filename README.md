@@ -1,6 +1,6 @@
 ### **Hi, I'm Vinicius Santos**, also know as Asty. 
 ***
-Aspiring **Software Developer** and **UI/UX Designer**. I love learning technologies that bring efficiencies and increase productivity to my workflow. You can visit my [Behance](https://www.behance.net/santosvinicius) or [Dribbble](https://dribbble.com/santosvinicius) profile to see my design projects.
+Newbiew **Software Developer** and **UI/UX Designer**. I love learning technologies that bring efficiencies and increase productivity to my workflow. You can visit my [Behance](https://www.behance.net/santosvinicius) or [Dribbble](https://dribbble.com/santosvinicius) profile to see my design projects.
 
 🏡 I'm from Osasco, São Paulo, Brazil.
 
