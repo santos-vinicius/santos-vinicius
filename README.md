@@ -1,35 +1,45 @@
-### **Hi, I'm Vinicius Santos**, also know as Asty. 
-***
-Newbie **Software Developer** and curious about **UI/UX Design**. I love learning technologies that bring efficiencies and increase productivity to my workflow. You can visit my [Behance](https://www.behance.net/santosvinicius) or [Dribbble](https://dribbble.com/santosvinicius) profile to see my design projects.
+# **Hello there, I'm Vinicius Santos!**
 
-🏡 I'm from Osasco, São Paulo, Brazil.
+> **Front-end Developer** and student in System Analysis at Anhanguera.
 
-🤖 My pronouns are he/him/his.
+🏠 Brazilian, based in Osasco, SP.
 
-👾 Favorite games: The Last of Us 2 and Fortnite
+🌱 I’m currently learning **JavaScript**, **ReactJS**, **Typescript** and **NodeJS**
 
-### Let's Talk!
-***
-<!--Social Badges-->
-<div align="center"> 
-  <a href="https://instagram.com/vinicius.snt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://dribbble.com/santosvinicius" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
-  <a href="https://www.behance.net/santosvinicius" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/santosvinicius" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:santosviniv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-santos-9a103115a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+🎮 Fun fact: i 🧡 coffee, games, music and animes.
 
-### Skills:
-***
+🚀 How to reach me:
+
+- [Linkedin](https://www.linkedin.com/in/santos-vinicius/)
+- [Twitter](https://twitter.com/vinisnt)
+- [Telegram](https://telegram.me/santosvinicius)
+
+## Tech Stacks
+
+---
+
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HMTL5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## GitHub Analytics
+
+---
+
 <!--GitHub Stats and Most Used Languages-->
 <div align="center">
   <a href="https://github.com/santos-vinicius">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=santos-vinicius&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-vinicius&layout=compact&langs_count=6&theme=github_dark"/>
-  
-  ![Snake animation](https://github.com/santos-vinicius/santos-vinicius/blob/output/github-contribution-grid-snake.svg)
+<div>
+
+---
+
+<!--Social Badges-->
+<div align="center"> 
+  <a href="https://instagram.com/vinicius.snt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/santosvinicius" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:santosviniv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vinicius-santos-9a103115a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-
-
