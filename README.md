@@ -4,7 +4,7 @@
 
 🏠 Brazilian, based in Osasco, SP.
 
-🌱 I’m currently learning **JavaScript**, **ReactJS**, **Typescript** and **NodeJS**
+🌱 I’m currently learning **ReactJS**, **Typescript** and **NodeJS**
 
 🎮 Fun fact: i 🧡 coffee, games, music and animes.
 
