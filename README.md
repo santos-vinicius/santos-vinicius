@@ -1,6 +1,6 @@
 # **Hello there, I'm Vinicius Santos!**
 
-> **Front-end Developer** and student in System Analysis at Anhanguera.
+> **Front-end Developer** and System Analysis student.
 
 🏠 Brazilian, based in Osasco, SP.
 
