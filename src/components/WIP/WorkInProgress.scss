@@ -17,7 +17,7 @@
 }
 
 .title {
-  color: $blue;
+  color: $pink;
   font-weight: 700;
   font-size: 46px;
   text-transform: uppercase;
@@ -25,7 +25,7 @@
   text-align: center;
   transition: 0.3s;
   &:hover {
-    color: $light-grey;
+    color: $soft-cream;
   }
 }
 
@@ -44,8 +44,8 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  color: $light-grey;
-  background-color: $blue;
+  color: $main-white;
+  background-color: $pink;
   border-radius: 10px;
   font-weight: 700;
   font-size: 20px;
@@ -56,8 +56,8 @@
   transition: 0.3s;
   &:hover {
     cursor: pointer;
-    color: $dark-grey;
-    background-color: $light-grey;
+    color: $main-dark;
+    background-color: $soft-cream;
   }
 }
 

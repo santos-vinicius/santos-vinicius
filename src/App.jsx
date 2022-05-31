@@ -1,12 +1,12 @@
 import './App.scss';
-import WIP from './components/WIP/WorkInProgress';
+import Profile from './components/profile/Profile';
 
 function App() {
   return (
-    <div>
-      <div className="main">
-        <WIP />
-      </div>
+    <div className="container">
+      <main className="main">
+        <Profile />
+      </main>
     </div>
   );
 }
