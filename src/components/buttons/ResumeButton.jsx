@@ -4,7 +4,12 @@ import style from '../buttons/Buttons.module.scss';
 const ResumeButton = () => {
   return (
     <>
-      <a href="./assets/cv.pdf" className={style.btn__resume}>
+      <a
+        href="https://raw.githubusercontent.com/santos-vinicius/santos-vinicius/wip/src/assets/cv.pdf"
+        className={style.btn__resume}
+        target="_blank"
+        rel="noreferrer"
+      >
         Download Currículo
       </a>
     </>
