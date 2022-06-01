@@ -1,0 +1,56 @@
+@import '../../styles/variables';
+
+a {
+  text-decoration: none;
+  color: initial;
+  text-align: center;
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 629px;
+}
+
+.btn__resume {
+  background: $pink;
+  width: 50%;
+  border-radius: 10px;
+  margin-right: 2.3rem;
+  padding: 1rem;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  border: none;
+  color: $main-white;
+  cursor: pointer;
+  &:focus {
+    border: 2px solid $soft-cream;
+  }
+  &::after {
+    content: '';
+    display: inline-block;
+    width: 16px;
+    height: 18px;
+    background: url(../../assets/download.svg) no-repeat center center;
+    margin-left: 0.5rem;
+    position: relative;
+    top: 2px;
+  }
+}
+
+.btn__contact {
+  background: $soft-cream;
+  font-weight: 700;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
+  padding: 1rem;
+  font-family: 'Nunito', sans-serif;
+  width: 50%;
+  cursor: pointer;
+  &:focus {
+    border: 2px solid $pink;
+  }
+}

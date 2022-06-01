@@ -1,4 +1,4 @@
-import '../WIP/WorkInProgress.scss';
+import '../WIP/WorkInProgress.module.scss';
 
 export default function WIP() {
   return (

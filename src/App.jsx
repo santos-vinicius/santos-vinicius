@@ -1,4 +1,5 @@
 import './App.scss';
+import Buttons from './components/buttons/Buttons';
 import Profile from './components/profile/Profile';
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div className="container">
       <main className="main">
         <Profile />
+        <Buttons />
       </main>
     </div>
   );
