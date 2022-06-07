@@ -125,7 +125,7 @@ main {
 .btn {
   align-items: center;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   text-align: center;
   margin-top: 1rem;
   width: 629px;
@@ -133,10 +133,10 @@ main {
 
 .btn__resume {
   background: var(--pink);
-  width: 50%;
+  width: 60%;
   border-radius: 10px;
-  margin-right: 2.3rem;
-  padding: 1rem;
+  margin-right: 1.9rem;
+  padding: 0.9rem;
   font-family: 'Nunito', sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -164,11 +164,12 @@ main {
   background: var(--soft-cream);
   font-weight: 700;
   font-size: 18px;
+  margin-left: 0;
   border: none;
   border-radius: 10px;
-  padding: 1rem;
+  padding: 0.9rem;
   font-family: 'Nunito', sans-serif;
-  width: 50%;
+  width: 40%;
 }
 
 .btn__contact:hover {
@@ -301,12 +302,12 @@ footer {
   }
 
   .btn {
-    width: 360px;
+    width: 380px;
   }
 
   .btn__resume,
   .btn__contact {
-    font-size: 16px;
+    font-size: 17px;
   }
 
   .btn__resume:hover,
