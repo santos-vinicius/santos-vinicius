@@ -228,12 +228,12 @@ main {
   }
 
   .btn {
-    width: 380px;
+    width: 360px;
   }
 
   .btn__resume,
   .btn__contact {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .btn__resume:hover,
