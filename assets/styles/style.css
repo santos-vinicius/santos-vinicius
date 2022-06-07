@@ -1,0 +1,247 @@
+/* Imports */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Nunito:wght@400;500;700&display=swap');
+
+/* Color variables */
+:root {
+  --background: #17171b;
+  --main-white: #fafafa;
+  --main-dark: #17171b;
+  --soft-cream: #f9f6eb;
+  --pink: #f03d5d;
+}
+
+/* Standards rules */
+
+body {
+  max-width: 1440px;
+  background-color: var(--background);
+  color: var(--main-white);
+  font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: initial;
+}
+
+li {
+  list-style: none;
+}
+
+/* Profile */
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+.container {
+  width: 629px;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+  width: 629px;
+}
+
+.profile__data {
+  display: flex;
+  flex-direction: row;
+}
+
+.profile__img {
+  height: 220px;
+  width: 220px;
+}
+
+.profile__info {
+  padding: 1.8rem 0 1.8rem 4.2rem;
+}
+
+.profile__title {
+  font-weight: 700;
+  font-size: 42px;
+  margin-bottom: 1rem;
+}
+
+.profile__subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  margin-bottom: 1rem;
+}
+
+.social {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.social__item {
+  cursor: pointer;
+  padding-right: 2rem;
+}
+
+.profile__about {
+  font-family: 'Inter', sans-serif;
+  font-size: 25px;
+  margin-top: 2rem;
+}
+
+.profile__about::after {
+  content: '';
+  display: block;
+  width: 5rem;
+  height: 0.1rem;
+  background: var(--pink);
+  margin-top: -10px;
+  margin-left: 140px;
+}
+
+.profile__about-text {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: justify;
+  line-height: 150%;
+}
+
+.profile__about-text b {
+  font-weight: 700;
+}
+
+/* Buttons */
+
+.btn {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 1rem;
+  width: 629px;
+}
+
+.btn__resume {
+  background: var(--pink);
+  width: 50%;
+  border-radius: 10px;
+  margin-right: 2.3rem;
+  padding: 1rem;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+}
+.btn__resume a {
+  color: var(--main-white);
+}
+
+.btn__resume:hover {
+  border: 1px solid var(--soft-cream);
+}
+
+.btn__resume::after {
+  content: '';
+  display: inline-block;
+  width: 16px;
+  height: 18px;
+  background: url(../img/download.svg) no-repeat center center;
+  margin-left: 0.5rem;
+  position: relative;
+  top: 2px;
+}
+
+.btn__contact {
+  background: var(--soft-cream);
+  font-weight: 700;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
+  padding: 1rem;
+  font-family: 'Nunito', sans-serif;
+  width: 50%;
+}
+
+.btn__contact:hover {
+  border: 1px solid var(--pink);
+}
+
+@media screen and (max-width: 460px) {
+  main {
+    margin-right: 2.5rem;
+    margin-left: 2.5rem;
+  }
+
+  .container {
+    max-width: 400px;
+  }
+
+  .profile {
+    max-width: 400px;
+  }
+
+  .profile__data {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .profile__img {
+    height: 150px;
+    width: 150px;
+  }
+  .profile__info {
+    padding: 1.8rem 0 1.8rem 1rem;
+    text-align: center;
+  }
+
+  .profile__title {
+    font-size: 35px;
+  }
+
+  .profile__subtitle {
+    font-size: 18px;
+  }
+
+  .profile__about {
+    font-size: 22px;
+    margin-top: 1rem;
+  }
+  .profile__about-text {
+    font-size: 16px;
+  }
+
+  .social {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1.3rem;
+  }
+
+  .btn {
+    width: 400px;
+  }
+
+  .btn__resume,
+  .btn__contact {
+    font-size: 16px;
+  }
+
+  .btn__resume:hover,
+  .btn__contact:hover {
+    border: none;
+  }
+
+  .btn__resume::after {
+    display: none;
+  }
+}
