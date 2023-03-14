@@ -33,6 +33,6 @@ I also have experience in git, git-flow, ui design and agile methodologies such 
 
 <p align="center">
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,js,ts,react,tailwind,styledcomponents,sass,nodejs,java,git,vite,figma"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind,styledcomponents,sass,nodejs,java,git,vite,figma"/>
  </a>
 </p>
