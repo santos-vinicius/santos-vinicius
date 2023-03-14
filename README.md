@@ -18,7 +18,7 @@ I also have experience in git, git-flow, ui design and agile methodologies such 
   <a href="https://santosvinicius.dev/" alt="personal website" target="_blank">
     <img src="https://img.shields.io/badge/Personal%20Website-gray?style=flat-square"/>
   </a>
-  <a href="https://santosvinicius.dev/" alt="musicboard profile" target="_blank">
+  <a href="https://musicboard.app/santosvinicius" alt="musicboard profile" target="_blank">
     <img src="https://img.shields.io/badge/Music%20Reviews-gray?style=flat-square"/>
   </a>
   <a href="https://wakatime.com/@7031b2ef-4023-4f53-96cc-fa6b78c86890">
