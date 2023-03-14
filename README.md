@@ -1,4 +1,4 @@
-#### Hi ✨
+### Hi ✨
 
 **`Frontend developer`**
 
@@ -29,7 +29,7 @@ I also have experience in git, git-flow, ui design and agile methodologies such 
 
 ----
 
-#### 🧰 Toolbox
+### 🧰 Toolbox
 
 <p align="center">
  <a href="https://skillicons.dev">
