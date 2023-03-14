@@ -1,6 +1,6 @@
 ### Hi ✨
 
-**`Frontend developer`**
+**`Frontend Developer`**
 
 My name is Vinicius Santos and I am a self-taught software developer who really likes music and design.
 
