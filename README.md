@@ -4,7 +4,7 @@
 
 My name is Vinicius Santos and I am a self-taught software developer who really likes music and design.
 
-Today as a freelancer and student I develop frontend projects using Javascript, React and CSS frameworks like Tailwind, Styled Components and SASS. Always praticing and learning continuously and in the future, aligning with frontend knowledge, I want to specialize as a Fullstack and Mobile Developer.
+Today as a freelancer and student I develop frontend projects using Javascript, React and CSS frameworks like Tailwind, Styled Components and SASS. Always practicing and learning continuously and in the future, aligning with frontend knowledge, I want to specialize as a Fullstack and Mobile Developer.
 
 I also have experience in git, git-flow, ui design and agile methodologies such as Kanban boards.
 
