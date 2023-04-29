@@ -12,7 +12,7 @@ I also have experience in git, git-flow, ui design and agile methodologies such 
   <a href="https://www.linkedin.com/in/santos-vinicius/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-gray?logo=linkedin&logoColor=white&style=flat-square"/>
   </a>
-  <a href="https://twitter.com/vinisnt/" target="_blank" alt="twitter">
+  <a href="https://twitter.com/sv1nicius/" target="_blank" alt="twitter">
     <img src="https://img.shields.io/badge/Twitter-gray?style=style=flat-square&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://santosvinicius.dev/" alt="personal website" target="_blank">
