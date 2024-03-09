@@ -1,6 +1,4 @@
-### Hi ✨
-
-**`Fullstack Developer`** **`System Analysis and Development - FATEC`**
+**`Fullstack Developer`** **`System Analysis and Development | FATEC `**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/santos-vinicius/" target="_blank" alt="Linkedin">
