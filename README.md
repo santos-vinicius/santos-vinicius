@@ -1,4 +1,9 @@
-**`Fullstack Developer`** **`System Analysis and Development | FATEC `**
+## Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">
+
+I'm a student of `Systems Analysis and Development*` at `FATEC Ferraz de Vasconcelos`. I define myself as a _curiosity-driven developer_ who really likes music, design. I'm always striving to enhance my skills through new challenges, and currently, I'm studying to become a **full-stack developer**.
+
+`open-source enthusiast` | `fullstack developer` | `📍 São Paulo, Brazil`
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/santos-vinicius/" target="_blank" alt="Linkedin">
@@ -12,4 +17,3 @@
   </a>
   <img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=santos-vinicius&style=flat-square&color=blue"/>
 </p>
-
