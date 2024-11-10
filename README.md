@@ -1,9 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">
-
-I'm a student of `Systems Analysis and Development` at `FATEC Ferraz de Vasconcelos`. I define myself as a _curiosity-driven developer_ who really likes music, design. I'm always striving to enhance my skills through new challenges, and currently, I'm studying to become a **full-stack developer**.
-
-`open-source enthusiast` | `fullstack developer` | `📍 São Paulo, Brazil`
-
+`FATEC Ferraz de Vasconcelos` | `open-source enthusiast` | `fullstack developer` | `📍 São Paulo, Brazil`
 
 <p align="left">
   <a href="https://www.linkedin.com/in/santos-vinicius/" target="_blank" alt="Linkedin">
