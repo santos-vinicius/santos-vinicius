@@ -1,4 +1,4 @@
-`FATEC Ferraz de Vasconcelos` | `open-source enthusiast` | `fullstack developer` | `📍 São Paulo, Brazil`
+ `open-source enthusiast` | `fullstack developer` | `📍 São Paulo, Brazil`
 
 <p align="left">
   <a href="https://www.linkedin.com/in/santos-vinicius/" target="_blank" alt="Linkedin">
@@ -12,3 +12,4 @@
   </a>
   <img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=santos-vinicius&style=flat-square&color=blue"/>
 </p>
+
